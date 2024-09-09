@@ -54,12 +54,4 @@ El principal problema que enfrentan los jóvenes con sordera e hipoacusia es la 
 
 - **Sistema de gamificación**: Implementar un sistema de recompensas, como puntos, insignias o niveles, para motivar a los usuarios a continuar con las lecciones.
 
-Citations:
-[1] https://formacionele.com/desarrollo-profesional-clave-para-la-excelencia-en-la-ensenanza-del-espanol/
-[2] https://www.redalyc.org/pdf/4780/478047204005.pdf
-[3] https://dialnet.unirioja.es/descarga/articulo/2871769.pdf
-[4] https://edu.gcfglobal.org/es/gramatica-basica/que-es-la-gramatica/1/
-[5] https://certificadoele.com/desarrollo-profesional-para-profesores-de-espanol/
-[6] https://bdigital.uncu.edu.ar/objetos_digitales/1402/gramatica.pdf
-[7] https://fondoeditorial.up.edu.pe/producto/elementos-de-gramatica-espanola/
-[8] https://blogs.ugto.mx/rea/guia-didactica-introduccion-a-la-gramatica-espanola/
+
