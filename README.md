@@ -63,4 +63,4 @@ Tenenmos las siguientes opciones: MySQL, PostgreSQL, Oracle, Microsoft SQL Serve
 
 ## Caso de Uso
 
-![Texto alternativo](Imagenes/CasoDeUso.png)
+![Texto alternativo](Imagenes/Caso_De_Uso.png)
