@@ -55,3 +55,8 @@ El principal problema que enfrentan los jóvenes con sordera e hipoacusia es la 
 - **Sistema de gamificación**: Implementar un sistema de recompensas, como puntos, insignias o niveles, para motivar a los usuarios a continuar con las lecciones.
 
 
+## Uso de base de datos
+
+Las RDBMS utilizan un modelo estructurado basado en tablas, lo que facilita la organización y el acceso a datos relacionados, como las lecciones de gramática, ejercicios interactivos y glosarios. Esto permite un manejo eficiente de la información necesaria para personalizar la experiencia del usuario.
+
+Tenenmos las siguientes opciones: MySQL, PostgreSQL, Oracle, Microsoft SQL Server.
