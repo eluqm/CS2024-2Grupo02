@@ -60,3 +60,7 @@ El principal problema que enfrentan los jóvenes con sordera e hipoacusia es la 
 Las RDBMS utilizan un modelo estructurado basado en tablas, lo que facilita la organización y el acceso a datos relacionados, como las lecciones de gramática, ejercicios interactivos y glosarios. Esto permite un manejo eficiente de la información necesaria para personalizar la experiencia del usuario.
 
 Tenenmos las siguientes opciones: MySQL, PostgreSQL, Oracle, Microsoft SQL Server.
+
+## Caso de Uso
+
+![Texto alternativo](Imagenes/CasoDeUso.png)
