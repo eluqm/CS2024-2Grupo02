@@ -1,8 +1,8 @@
 # CS2024-2Grupo02
 
 AUTORES:
--Rodrigo Ojeda Arce
--Josshua David Flores Chumbimuni
+- Rodrigo Ojeda Arce
+- Josshua David Flores Chumbimuni
 
 # PROYECTO CONSTRUCCIÓN DE SOFTWARE
 
