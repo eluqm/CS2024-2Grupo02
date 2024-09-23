@@ -19,7 +19,7 @@ Sin embargo, para jóvenes con condiciones como la sordera (pérdida total o cas
 
 El principal problema que enfrentan los jóvenes con sordera e hipoacusia es la falta de conocimientos y práctica de la gramática española, lo que resulta en una comprensión limitada de los temas académicos presentes en sus libros de estudio. Esta falta de práctica lingüística puede manifestarse en dificultades para leer y comprender textos escritos, lo cual puede contribuir a un desarrollo académico más lento y a un aprendizaje menos efectivo.
 
-## Objetivos
+## Objetivo
 
 - Lograr que los jóvenes puedan practicar activamente la comprensión lectora y gramática española, a través de actividades de lectura y ejercicios prácticos.
 
