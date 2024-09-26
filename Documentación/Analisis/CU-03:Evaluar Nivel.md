@@ -6,15 +6,19 @@ Para tener un aprendizaje más personalizado no todos los temas y funciones esta
 1. Aparece al iniciar por primera vez la aplicación
 2. Se muestra una pantalla que indica de que trata la evaluación
 3. Se selecciona iniciar practica
-4. describir el paso 4
-5. ...
-### Flujo Alternativo: **nombre del flujo alternativo**
-- **Descripción:** describir brevemente como inicia este flujo alternativo
+4. La evaluación contiene 20 ejercicios los cuales inician con diferentes ejercicios en pantalla con la siguiente estructura:
+    - Nombre del tema
+    - Descripción del ejercicio
+    - Ejercicio
+5. Despues de completar todos los ejercicios nos mostrara los resultados en pantalla y el nivel obtenido
+6. En pantalla aparece una opción para ir al menú
+### Flujo Alternativo: **Evaluación Interrumpida**
+- **Descripción:** Esto sucede cuando en la evaluación de nivel es interrumpida, cuando se cierra la aplicación. Inicia en cualquiera de los pasos del flujo principal antes del paso 5
 - **Acciones:**
-1. describir el paso 1 o desde donde inicia
-2. describir el paso 2
-3. describir el paso 3
-4. ...
+1. La aplicación se cierra
+2. Se vuelve ingresar a la aplicación
+3. Se reinicia el flujo principal
 
 ## Precondiciones(Analizar si es necesario, sino borrar)
 ## Postcondiciones(Analizar si es necesario, sino borrar)
+- Una vez completada la evaluación principal no vuelve aparecer al iniciar la aplicación
